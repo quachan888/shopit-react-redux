@@ -193,6 +193,12 @@ footer {
     margin-top: 9rem;
 }
 
+.product-details-img {
+    max-width: 80%;
+    height: 400px;
+    object-fit: contain;
+}
+
 /* Loader */
 .loader {
     display: block;
